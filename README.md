@@ -1,1 +1,1 @@
-# squae-root
+# square-root
